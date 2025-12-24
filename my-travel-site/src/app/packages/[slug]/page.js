@@ -38,7 +38,7 @@ export default function PackageDetail() {
       <div className="container mx-auto px-4 py-16">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-gray-800 mb-4">Package Not Found</h1>
-          <p className="text-gray-600 mb-8">The travel package you're looking for doesn't exist or has been removed.</p>
+          <p className="text-gray-600 mb-8">The travel package you&apos;re looking for doesn&apos;t exist or has been removed.</p>
           <Link href="/packages" className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-6 rounded-md transition duration-300">
             Browse All Packages
           </Link>
@@ -157,7 +157,7 @@ export default function PackageDetail() {
             Experience the beauty and wonders of {packageData.location} with our expertly guided tour. This {packageData.duration} adventure is designed to immerse you in the local culture, breathtaking landscapes, and unforgettable experiences.
           </p>
           <p className="text-gray-600">
-            Our packages include accommodation, transportation, guided tours, and select meals to ensure your comfort and enjoyment throughout the journey. Whether you're seeking adventure, relaxation, or cultural enrichment, this package offers the perfect balance for an extraordinary travel experience.
+            Our packages include accommodation, transportation, guided tours, and select meals to ensure your comfort and enjoyment throughout the journey. Whether you&apos;re seeking adventure, relaxation, or cultural enrichment, this package offers the perfect balance for an extraordinary travel experience.
           </p>
         </div>
       </div>
@@ -213,7 +213,7 @@ export default function PackageDetail() {
       {/* Inclusions/Exclusions */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
         <div>
-          <h2 className="text-2xl font-bold text-gray-800 mb-4">What's Included</h2>
+          <h2 className="text-2xl font-bold text-gray-800 mb-4">What&apos;s Included</h2>
           <ul className="space-y-2">
             {[
               'Accommodation in selected hotels',
@@ -235,7 +235,7 @@ export default function PackageDetail() {
         </div>
         
         <div>
-          <h2 className="text-2xl font-bold text-gray-800 mb-4">What's Not Included</h2>
+          <h2 className="text-2xl font-bold text-gray-800 mb-4">What&apos;s Not Included</h2>
           <ul className="space-y-2">
             {[
               'International or domestic flights',

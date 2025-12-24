@@ -24,7 +24,7 @@ export default function Footer() {
             </Link>
             <p className="text-gray-400 mb-6">
               Creating unforgettable travel experiences since 2005. 
-              Let us help you discover the world's most amazing destinations.
+              Let us help you discover the world&apos;s most amazing destinations.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition duration-300">

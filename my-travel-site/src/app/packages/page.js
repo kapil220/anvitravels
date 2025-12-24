@@ -67,7 +67,7 @@ export default function AllPackages() {
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4 text-center">Explore Our Travel Packages</h1>
           <p className="text-gray-600 text-center max-w-2xl mx-auto">
-            Discover our carefully crafted travel experiences designed to create unforgettable memories in the world's most stunning destinations.
+            Discover our carefully crafted travel experiences designed to create unforgettable memories in the world&apos;s most stunning destinations.
           </p>
         </div>
       </div>

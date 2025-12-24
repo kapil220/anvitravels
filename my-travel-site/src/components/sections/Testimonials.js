@@ -235,7 +235,7 @@ export default function Testimonials() {
                     </svg>
                     
                     <p className="text-xl text-blue-100 italic leading-relaxed pl-6">
-                      "{testimonials[activeIndex].text}"
+                      &quot;{testimonials[activeIndex].text}&quot;
                     </p>
                     
                     {/* Highlight tag */}
