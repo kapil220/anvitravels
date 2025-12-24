@@ -50,15 +50,10 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <div className="relative h-10 w-10 mr-2">
-              <Image
-                src="/images/logo.png"
-                alt="Wanderlust Travels Logo"
-                fill
-                className="object-contain"
-              />
+            
             </div>
             <span className={`text-xl font-bold ${isScrolled ? 'text-blue-900' : 'text-white'}`}>
-              Wanderlust Travels
+              Anvi Travels
             </span>
           </Link>
           
