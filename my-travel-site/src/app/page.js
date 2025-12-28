@@ -7,7 +7,7 @@ import Testimonials from '@/components/sections/Testimonials';
 
 export default function Home() {
   return (
-    <main>
+    <main style={{backgroundColor: '#F6EDE4'}}>
       <Hero />
       <AboutUs />
       <Packages />
