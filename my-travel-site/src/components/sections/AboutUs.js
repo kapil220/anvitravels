@@ -17,7 +17,7 @@ export default function AboutUs() {
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed animate-slide-up animation-delay-200">
               At Anvi Travels, we believe in the transformative power of travel. For over 15 years,
-              we've been helping travelers discover the world's most amazing destinations with carefully
+              we&apos;ve been helping travelers discover the world&apos;s most amazing destinations with carefully
               curated experiences that blend adventure, culture, relaxation, and authentic local connections.
             </p>
             <p className="text-gray-600 mb-8 leading-relaxed animate-slide-up animation-delay-300">
@@ -65,7 +65,7 @@ export default function AboutUs() {
 
             <div className="absolute bottom-4 right-4 bg-white p-4 rounded-lg shadow-lg md:max-w-xs animate-slide-up animation-delay-600 transition-transform duration-300 hover:-translate-y-2">
               <p className="font-semibold text-gray-800">
-                We don't just sell destinations, we create meaningful connections with places and people.
+                We don&apos;t just sell destinations, we create meaningful connections with places and people.
               </p>
               <p className="mt-2 font-medium" style={{color: '#FF8A3D'}}>— Sarah Johnson, Founder</p>
             </div>
